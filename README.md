@@ -67,4 +67,34 @@ Through this project, I gained experience in:
 
 ---
 
+## Project Screenshots
+
+The following screenshots demonstrate the workbook structure, formulas and key functionalities implemented in the project.
+
+### 1. Workbook Overview
+
+![Computation Sheet](screenshots/Computation%20Sheet.png)
+
+### 2. Item Database
+
+![Menu Items with Quantity and Price](screenshots/Menu%20Items%20with%20Quantity%20and%20Price.png)
+
+### 3. Excel Formulas and Functionalities
+
+**VLOOKUP – Automated Price Retrieval**
+
+![VLOOKUP Formula](screenshots/VLOOKUP%20Formula.png)
+
+**SUMIF – Conditional Summation**
+
+![SUMIF Formula](screenshots/SUMIF%20Formula.png)
+
+**IF and COUNTA – Conditional Calculations**
+
+![IF and COUNTA Formulas](screenshots/IF%20%26%20COUNTA%20Formulas.png)
+
+**Named Ranges – Formula Organisation**
+
+![Named Ranges](screenshots/Named%20Ranges.png)
+
 *An independently developed project demonstrating practical applications of spreadsheet automation and formula-based computation.*
