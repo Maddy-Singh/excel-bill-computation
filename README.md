@@ -71,28 +71,28 @@ Through this project, I gained experience in:
 
 ### 1. Workbook Overview
 
-![Computation Sheet](https://raw.githubusercontent.com/Maddy-Singh/excel-bill-computation/main/screenshots/Computation%20Sheet.png)
+![Computation Sheet](./screenshots/computation-sheet.png)
 
 ### 2. Item Database
 
-![Menu Items with Quantity and Price](https://raw.githubusercontent.com/Maddy-Singh/excel-bill-computation/main/screenshots/Menu%20Items%20with%20Quantity%20and%20Price.png)
+![Menu Items](./screenshots/menu-items.png)
 
 ### 3. Excel Formulas and Functionalities
 
 **VLOOKUP – Automated Price Retrieval**
 
-![VLOOKUP Formula](https://raw.githubusercontent.com/Maddy-Singh/excel-bill-computation/main/screenshots/VLOOKUP%20Formula.png)
+![VLOOKUP Formula](./screenshots/vlookup-formula.png)
 
 **SUMIF – Conditional Summation**
 
-![SUMIF Formula](https://raw.githubusercontent.com/Maddy-Singh/excel-bill-computation/main/screenshots/SUMIF%20Formula.png)
+![SUMIF Formula](./screenshots/sumif-formula.png)
 
 **IF and COUNTA – Conditional Calculations**
 
-![IF and COUNTA Formulas](https://raw.githubusercontent.com/Maddy-Singh/excel-bill-computation/main/screenshots/IF%20%26%20COUNTA%20Formulas.png)
+![IF and COUNTA Formulas](./screenshots/if-counta-formulas.png)
 
 **Named Ranges – Formula Organisation**
 
-![Named Ranges](https://raw.githubusercontent.com/Maddy-Singh/excel-bill-computation/main/screenshots/Named%20Ranges.png)
+![Named Ranges](./screenshots/named-ranges.png)
 
 *An independently developed project demonstrating practical applications of spreadsheet automation and formula-based computation.*
